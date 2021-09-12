@@ -16,12 +16,13 @@ IOTA is listed on most major cryptocurrency exchanges.
 
 ## Buying IOTA everywhere else
 
-*   [**Binance**](https://www.binance.com/en)
-*   [**Bitfinex**](https://www.bitfinex.com/)
-*   [**Bittrex**](https://global.bittrex.com/)
-*   [**Gate.io**](https://www.gate.io/)
-*   [**Liquid**](https://www.liquid.com/)
-*   [**OKEx**](https://www.okex.com/)
-*   [**Bitpanda**](https://www.bitpanda.com/en)
-
+*   [**Binance**](https://www.binance.com)
+*   [**Bitfinex**](https://www.bitfinex.com)
+*   [**Bittrex**](https://global.bittrex.com)
+*   [**Gate.io**](https://www.gate.io)
+*   [**Liquid**](https://www.liquid.com)
+*   [**OKEx**](https://www.okex.com)
+*   [**Bitpanda**](https://www.bitpanda.com)
+*   [**Anycoindirect**](https://www.anycoindirect.eu)
+*   [**Coinmerce**](https://www.coinmerce.io)
 ***
